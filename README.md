@@ -11,4 +11,4 @@
 - BERT based multi-class classification
   - [BERT 101 by HuggingFace](https://huggingface.co/blog/bert-101)
   - [BERT implementation in TensorFlow](https://github.com/google-research/bert)
-
+  - [DistilBERT](https://huggingface.co/docs/transformers/model_doc/distilbert)
